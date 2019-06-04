@@ -13,8 +13,11 @@ In order to run the program, execute the following instructions:
 
 
 This was run on a system with:
+
 Python 3.7
+
 Tensorflow 1.13.1
+
 Mac OS - Mojave
 
 
