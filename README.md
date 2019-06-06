@@ -6,18 +6,19 @@ This is what the conversion from handwritten text to text recognition looks like
 
 In order to run the program, execute the following instructions:
 1. Download the following from the given [link](http://www.fki.inf.unibe.ch/databases/iam-handwriting-database/download-the-iam-handwriting-database):
+
 * data/ascii>>words.txt
 * data/words>>words.tgz
+
 2. Download this whole repository into your system.
+
 3. Go to the model/ directory and unzip the file model.zip (pre-trained on the IAM dataset). Make sure that the unzipped files are placed directly into the model/ directory and not some subdirectory created by the unzip-program. Afterwards, go to the src/ directory and run python main.py.
 
 
 This was run on a system with:
 
-Python 3.7
-
-Tensorflow 1.13.1
-
-Mac OS - Mojave
+* Python 3.7
+* Tensorflow 1.13.1
+* Mac OS - Mojave
 
 
